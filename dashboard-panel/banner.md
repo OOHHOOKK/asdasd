@@ -2,7 +2,7 @@
 
 Digunakan untuk menampilkan banner slider di landing page website
 
-<figure><img src="../.gitbook/assets/Screenshot_22.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_22 (1).png" alt=""><figcaption></figcaption></figure>
 
 Langkah - langkah :&#x20;
 
@@ -11,11 +11,11 @@ Langkah - langkah :&#x20;
 3.  Klik menu banner\
 
 
-    <figure><img src="../.gitbook/assets/Screenshot_23 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/Screenshot_23.png" alt=""><figcaption></figcaption></figure>
 4.  Create +\
 
 
-    <figure><img src="../.gitbook/assets/Screenshot_24.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/Screenshot_24 (1).png" alt=""><figcaption></figcaption></figure>
 5.  Masukkan nama banner, upload gambar dan kemudian pilih banner yang ingin ditambahkan\
 
 
@@ -24,5 +24,5 @@ Langkah - langkah :&#x20;
 
 {% hint style="info" %}
 NOTE : untuk mengatur urutan banner bisa drag & drop, klik dan tahan pada garis tiga\
-![](<../.gitbook/assets/image (71).png>)
+![](<../.gitbook/assets/image (38).png>)
 {% endhint %}

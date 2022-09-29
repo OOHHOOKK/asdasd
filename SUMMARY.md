@@ -42,12 +42,6 @@
 ## ADD BOT
 
 * [Add Bot Midman](add-bot/add-bot-midman.md)
-* [Add Bot Smile One](add-bot/add-bot-smile-one.md)
-* [Add Bot Kiosgamer](add-bot/add-bot-kiosgamer/README.md)
-  * [Cara mengaktifkan fitur topup ke teman kiosgamer](add-bot/add-bot-kiosgamer/cara-mengaktifkan-fitur-topup-ke-teman-kiosgamer.md)
-* [Add Bot Higgs Domino](add-bot/add-bot-higgs-domino.md)
-* [Add Bot Gamepoint (Private-BOT)](add-bot/add-bot-gamepoint-private-bot.md)
-* [Add Bot Unipin (Private-BOT)](add-bot/add-bot-unipin-private-bot.md)
 
 ## ADD API KEY
 

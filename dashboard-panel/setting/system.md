@@ -6,4 +6,4 @@ Digunakan untuk mengatur bagian system seperti :&#x20;
 2. estimasi waktu pembayaran expired
 3. notifikasi pesanan eror ke owner website
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (44).png" alt=""><figcaption></figcaption></figure>

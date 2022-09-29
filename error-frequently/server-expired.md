@@ -9,13 +9,13 @@ Apa saja yang terdampak jika server expired
 *   Web Store Expired\
 
 
-    <figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption><p>WebStore Expired</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (20).png" alt=""><figcaption><p>WebStore Expired</p></figcaption></figure>
 
 
 *   Admin Panel Expired\
 
 
-    <figure><img src="../.gitbook/assets/image (68).png" alt=""><figcaption><p>Admin Panel Expired</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Admin Panel Expired</p></figcaption></figure>
 
 
 

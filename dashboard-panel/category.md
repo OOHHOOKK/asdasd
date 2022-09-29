@@ -13,15 +13,15 @@ Buka admin panel
 1.  Klik menu Category\
 
 
-    <figure><img src="../.gitbook/assets/Screenshot_12.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/Screenshot_12 (1).png" alt=""><figcaption></figcaption></figure>
 2. Create +
 3.  Masukkan nama kategori\
 
 
-    <figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 4. Save -> DONE
 
 {% hint style="info" %}
 NOTE : untuk mengatur urutan Category bisa drag & drop, klik dan tahan pada garis tiga\
-![](<../.gitbook/assets/image (59).png>)
+![](<../.gitbook/assets/image (33).png>)
 {% endhint %}

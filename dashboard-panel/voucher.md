@@ -6,12 +6,12 @@ Untuk membuat voucher diskon
 2.  Klik menu voucher\
 
 
-    <figure><img src="../.gitbook/assets/image (54).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 3. Create
 4.  Isi detail voucher\
 
 
-    <figure><img src="../.gitbook/assets/image (49).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 5. Atur jumlah diskon
 6. Atur jumlah voucher
 7. Pilih produk

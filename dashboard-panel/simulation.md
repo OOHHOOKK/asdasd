@@ -2,4 +2,4 @@
 
 Digunakan untuk tes kirim pesan bot whatsapp service\
 \
-![](<../.gitbook/assets/image (52).png>)
+![](<../.gitbook/assets/image (2).png>)

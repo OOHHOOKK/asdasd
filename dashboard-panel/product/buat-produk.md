@@ -5,7 +5,7 @@ Langkah - langkah buat produk
 1.  Klik create+\
 
 
-    <figure><img src="../../.gitbook/assets/image (51).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 
 2.  Isi detail produk\
@@ -15,18 +15,18 @@ Langkah - langkah buat produk
     \- Tipe = Ada 2 pilihan (top up & voucher)\
     \- Code = Check nickname player
 
-    <figure><img src="../../.gitbook/assets/Screenshot_16.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot_16 (1).png" alt=""><figcaption></figcaption></figure>
 3. Status ON
 4.  Featured = untuk mengatur produk populer
 
-    <figure><img src="../../.gitbook/assets/Screenshot_17.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot_17 (1).png" alt=""><figcaption></figcaption></figure>
 5. Upload logo produk
 6. Upload banner produk
 7. Upload helper (contoh : tempat id game berada)
 8.  Tambahkan deskripsi\
 
 
-    <figure><img src="../../.gitbook/assets/Screenshot_18.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Screenshot_18 (1).png" alt=""><figcaption></figcaption></figure>
 
     \
 
@@ -36,15 +36,15 @@ Langkah - langkah buat produk
    &#x20;  Input = pengguna dapat mengisi form\
    &#x20;  Dropdown = pengguna dapat memilih salah satu dari daftar pilihan menu yang ada
 
-<figure><img src="../../.gitbook/assets/Screenshot_21 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_21.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot_22 (1).png" alt=""><figcaption><p>Input</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_22.png" alt=""><figcaption><p>Input</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/Screenshot_23.png" alt=""><figcaption><p>Dropdown</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_23 (1).png" alt=""><figcaption><p>Dropdown</p></figcaption></figure>
 
 &#x20; \- Isi form input key dengan format seperti gambar
 
-<figure><img src="../../.gitbook/assets/Screenshot_24 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_24.png" alt=""><figcaption></figcaption></figure>
 
 \
 \
@@ -56,7 +56,7 @@ Langkah - langkah buat produk
 &#x20;  type = tel(angka)/text(text dan angka)\
 &#x20;  lenght = panjang maksimal pengisian type
 
-<figure><img src="../../.gitbook/assets/Screenshot_25 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_25 (2).png" alt=""><figcaption></figcaption></figure>
 
 \
 \
@@ -68,7 +68,7 @@ Langkah - langkah buat produk
 &#x20;  type = tel(angka)/text(text dan angka)\
 &#x20;  lenght = panjang maksimal pengisian type
 
-<figure><img src="../../.gitbook/assets/Screenshot_26.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_26 (1).png" alt=""><figcaption></figcaption></figure>
 
 \
 \

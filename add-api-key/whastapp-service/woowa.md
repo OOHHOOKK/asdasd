@@ -18,10 +18,10 @@ Cara mengambil APIkey
    ![](../../.gitbook/assets/Screenshot\_32.png)
 3. Dibagian action klik more\
    \
-   ![](<../../.gitbook/assets/image (64).png>)
+   ![](<../../.gitbook/assets/image (3).png>)
 4. Get key\
    \
-   ![](<../../.gitbook/assets/image (67).png>)
+   ![](<../../.gitbook/assets/image (31).png>)
 5. Copy APIkey\
    \
    ![](../../.gitbook/assets/Screenshot\_33.png)\
@@ -36,13 +36,13 @@ Cara Pasang APIkey
 1. Buka admin panel
 2. lalu klik menu Setting -> APIkey\
    \
-   ![](<../../.gitbook/assets/image (12).png>)
+   ![](<../../.gitbook/assets/image (65).png>)
 3. Scroll kebawah
 4. Paste APIkey yang telah dicopy sebelumnya\
    \
-   ![](<../../.gitbook/assets/image (31).png>)
+   ![](<../../.gitbook/assets/image (76).png>)
 5. Save -> DONE
 
 > Cek sudah berhasil silahkan ke menu [simulation.md](../../dashboard-panel/simulation.md "mention") untuk tes send message\
 > \
-> ![](<../../.gitbook/assets/image (1).png>)
+> ![](<../../.gitbook/assets/image (52).png>)

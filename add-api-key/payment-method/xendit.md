@@ -36,7 +36,7 @@ Catatan:
 *   Jika Anda merupakan individu yang bergerak pada bidang industri dengan resiko rendah dari Indonesia, Anda dapat melakukan aktivasi instan dengan beberapa [batasan](https://docs.xendit.co/id/getting-started/activate-account#ketersediaan-produk-dan-fitur).\
 
 
-    <figure><img src="../../.gitbook/assets/Account+Activation+OW (1).gif" alt=""><figcaption><p>Keterangan:<br>Contoh pengisian aktivasi akun xendit</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/Account+Activation+OW.gif" alt=""><figcaption><p>Keterangan:<br>Contoh pengisian aktivasi akun xendit</p></figcaption></figure>
 
 
 
@@ -51,7 +51,7 @@ a. Masuk akun xendit anda, lalu masuk menu > pengaturan\
 
 b. setelah anda masuk pada menu tersebut, maka silahkan masuk pada menu Developer > API keys
 
-<figure><img src="../../.gitbook/assets/xendit setup api (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/xendit setup api.png" alt=""><figcaption></figcaption></figure>
 
 c.  Lalu setelah itu pilih Buat secret key baru&#x20;
 
@@ -69,7 +69,7 @@ Silahkan di simpan/copy API key Anda di tempat yang aman, nantinya akan di masuk
 
 e. Selanjutnya kita akan setting untuk API Signature/Callback, caranya masuk > pengaturan API > silahkan scroll untuk mencari menu Callback:
 
-<figure><img src="../../.gitbook/assets/api xendit 3 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/api xendit 3 (2).png" alt=""><figcaption></figcaption></figure>
 
 Silahkan pilih lihat token verifikasi callback, masukan password xendit untuk verifikasi, simpan dengan aman nantinya akan di masukan di dashboard panel website kakak
 
@@ -80,7 +80,7 @@ dan setelah tersimpan jangan lupa refresh web broswernya
 
 g. Lalu setelahnya silahkan setting untuk URL Callbacknya, silahkan kembali masuk ke akun xendit anda, lalu pilih menu > URL Callback > lalu isikan seperti format di bawah ini, pilih tes dan simpan
 
-<figure><img src="../../.gitbook/assets/api keys 4.png" alt=""><figcaption><p>Keterangan: <br>a. <a href="https://api.domainkamu.com/v1/public/callback/xendit/va">https://api.domainkamu.com/v1/public/callback/xendit/va</a><br>b. <a href="https://api.domainkamu.com/v1/public/callback/xendit/cstore">https://api.domainkamu.com/v1/public/callback/xendit/cstore</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/api keys 4 (1).png" alt=""><figcaption><p>Keterangan: <br>a. <a href="https://api.domainkamu.com/v1/public/callback/xendit/va">https://api.domainkamu.com/v1/public/callback/xendit/va</a><br>b. <a href="https://api.domainkamu.com/v1/public/callback/xendit/cstore">https://api.domainkamu.com/v1/public/callback/xendit/cstore</a></p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/api keys 5.png" alt=""><figcaption><p>Keterangan:<br>c. <a href="https://api.domainkamu.com/v1/public/callback/xendit/ewallet">https://api.domainkamu.com/v1/public/callback/xendit/ewallet</a></p></figcaption></figure>
 

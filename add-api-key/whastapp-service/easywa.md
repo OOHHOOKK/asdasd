@@ -22,14 +22,14 @@ Cara Pasang API key
 1. Buka admin panel
 2. lalu klik menu Setting -> API key\
    \
-   ![](<../../.gitbook/assets/image (55).png>)
+   ![](<../../.gitbook/assets/image (14).png>)
 3. Scroll kebawah
 4. Paste API key yang telah dicopy sebelumnya
 5. Masukkan email akun EasyWA\
    \
-   ![](<../../.gitbook/assets/image (57).png>)
+   ![](<../../.gitbook/assets/image (11).png>)
 6. Save -> DONE
 
 > Cek sudah berhasil, silahkan ke menu [simulation.md](../../dashboard-panel/simulation.md "mention") untuk tes send message\
 > \
-> ![](<../../.gitbook/assets/image (1).png>)
+> ![](<../../.gitbook/assets/image (52).png>)

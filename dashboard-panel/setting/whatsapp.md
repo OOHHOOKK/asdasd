@@ -9,4 +9,4 @@ Meliputi :&#x20;
 3. konfirmasi pembuatan akun member
 4. lupa password
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (47).png>)

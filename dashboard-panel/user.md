@@ -2,7 +2,7 @@
 
 Berisi semua list detail user, termasuk saldo user juga
 
-![](<../.gitbook/assets/image (58).png>)
+![](<../.gitbook/assets/image (18).png>)
 
 Di menu ini, bisa juga create user baru\
 sebagai contoh buat user dengan role admin&#x20;
@@ -16,6 +16,6 @@ sebagai contoh buat user dengan role admin&#x20;
 5. Membersip dikosongkan
 6. Role pilih admin\
    \
-   ![](<../.gitbook/assets/image (35).png>)
+   ![](<../.gitbook/assets/image (21).png>)
 7. Status ON (agar user aktif)
 8. Save -> DONE
