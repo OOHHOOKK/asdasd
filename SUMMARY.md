@@ -26,7 +26,6 @@
 * [Membership](dashboard-panel/membership.md)
 * [Payment](dashboard-panel/payment.md)
 * [Vendor](dashboard-panel/vendor/README.md)
-  * [Bot](dashboard-panel/vendor/bot.md)
   * [Product](dashboard-panel/vendor/product.md)
   * [Denom](dashboard-panel/vendor/denom.md)
   * [Midman](dashboard-panel/vendor/midman.md)
