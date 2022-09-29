@@ -12,18 +12,7 @@ Untuk membuat provider BOT
 
     <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 4. Isi nama (Contoh : mobile legends)
-5. pilih type sesuai kebutuhan : \
-   \- Manual\
-   \- BOT\
-   &#x20;  Untuk type bot, pilih jenis bot pada bagian field Bot : \
-   &#x20;  1\. Smile One\
-   &#x20;  2\. Kiosgamer\
-   &#x20;  3\. Higgs Domino\
-   &#x20;  4\. Gamepoint\
-   &#x20;  5\. Unipin -> ID / BR / MY\
-   \
-   &#x20;  ![](<../.gitbook/assets/Screenshot\_14 (1).png>)\
-   \
+5. pilih type : \
    \- Midman\
    &#x20;  Untuk type Midman, pilih Midman pada bagian field type\
    &#x20;  1\. Masukkan target\
