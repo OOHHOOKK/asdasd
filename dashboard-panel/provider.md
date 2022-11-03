@@ -1,6 +1,6 @@
 # Provider
 
-Untuk membuat provider BOT
+Untuk membuat provider
 
 1. Buka admin panel
 2.  Klik menu provider\
