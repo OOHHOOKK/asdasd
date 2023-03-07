@@ -10,7 +10,7 @@ Disclaimer: Sebelum melakukan setting pembayaran, di sarankan untuk setting terl
 \
 Langkah-langkah yang harus di lakukan untuk setting xendit:\
 \
-1\. Daftar akun xendit Anda melalui [tautan berikut ini](https://dashboard.xendit.co/register/1) dan isi semua informasi yang dibutuhkan, jangan lupa memasukan referal/promo code 84095BE1\
+1\. Daftar akun xendit Anda melalui [tautan berikut ini](https://dashboard.xendit.co/register/1) dan isi semua informasi yang dibutuhkan, **jangan lupa memasukan** code **VOCAGAME** pada form pendaftaran sebelum menyelesaikan proses pendaftaran.\
 Setelah terdaftar, Anda akan diarahkan menuju sebuah laman di mana kami akan menanyakan beberapa pertanyaan tambahan untuk menentukan produk apa yang bisa Anda gunakan\*\
 \
 catatan: pilih akun individu jika belum memiliki perizinan badan, agar dapat aktivasi instan.\
