@@ -48,6 +48,7 @@
   * [Xendit](add-api-key/payment-method/xendit.md)
   * [Cek Mutasi](add-api-key/payment-method/cek-mutasi.md)
   * [Tripay](add-api-key/payment-method/tripay.md)
+  * [Duitku](add-api-key/payment-method/duitku.md)
   * [⛔ Ipaymu](add-api-key/payment-method/ipaymu.md)
 * [Whastapp Service](add-api-key/whastapp-service/README.md)
   * [EasyWA](add-api-key/whastapp-service/easywa.md)
