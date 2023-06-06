@@ -26,4 +26,4 @@
 8. Login
 9. Done -> sukses login
 
-<figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_93.png" alt=""><figcaption></figcaption></figure>
