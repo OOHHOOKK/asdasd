@@ -24,6 +24,7 @@
 
     <figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 8. Login
-9. Done -> sukses login
+9.  Done -> sukses login\
 
-<figure><img src="../.gitbook/assets/Screenshot_93.png" alt=""><figcaption></figcaption></figure>
+
+    <figure><img src="../.gitbook/assets/Screenshot_94.png" alt=""><figcaption></figcaption></figure>
