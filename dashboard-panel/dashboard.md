@@ -16,7 +16,7 @@
     Digunakan untuk melihat seluruh jumlah transaksi penjualan produk\
 
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Bisa menggunakan filter tanggal untuk melihat jumlah transaksi harian, mingguan, bulanan, dan tahunan</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>Bisa menggunakan filter tanggal untuk melihat jumlah transaksi harian, mingguan, bulanan, dan tahunan</p></figcaption></figure>
 
 
 4.  Produk Performance\
