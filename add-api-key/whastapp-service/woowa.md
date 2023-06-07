@@ -18,7 +18,7 @@ Cara mengambil APIkey
    ![](../../.gitbook/assets/Screenshot\_32.png)
 3. Dibagian action klik more\
    \
-   ![](<../../.gitbook/assets/image (3) (1) (1).png>)
+   ![](<../../.gitbook/assets/image (3) (1) (1) (1).png>)
 4. Get key\
    \
    ![](<../../.gitbook/assets/image (31).png>)

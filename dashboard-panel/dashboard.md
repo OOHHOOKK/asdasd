@@ -9,7 +9,7 @@
     Digunakan untuk melihat seluruh jumlah pendapatan transaksi penjualan produk\
 
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Bisa menggunakan filter tanggal untuk melihat pendapatan harian, mingguan, bulanan, dan tahunan</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Bisa menggunakan filter tanggal untuk melihat pendapatan harian, mingguan, bulanan, dan tahunan</p></figcaption></figure>
 
 
 3.  Sales Report\
@@ -23,4 +23,4 @@
     Menampilkan performa dari penjualan produk\
 
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
