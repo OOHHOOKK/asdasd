@@ -4,7 +4,7 @@ description: >-
   E-wallet, Convenience Store, dan lainnya)
 ---
 
-# Tripay
+# 💳 Tripay
 
 Disclaimer: Sebelum melakukan setting pembayaran, di sarankan untuk setting terlebih dahulu produk, asset-asset web anda, whatsapp service (notifikasi pesanan otomatis)
 

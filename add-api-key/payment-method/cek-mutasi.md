@@ -2,7 +2,7 @@
 description: Jenis pembayaran yang menggunakan metode bank transfer/internet banking
 ---
 
-# Cek Mutasi
+# 💳 Cek Mutasi
 
 Disclaimer: Sebelum melakukan setting pembayaran, di sarankan untuk setting terlebih dahulu produk, asset-asset web anda, whatsapp service (notifikasi pesanan otomatis)\
 \

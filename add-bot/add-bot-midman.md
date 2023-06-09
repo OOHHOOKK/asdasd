@@ -8,7 +8,7 @@ Untuk membuat API key Midman
    ![](<../.gitbook/assets/image (73).png>)
 3. Create\
    \
-   ![](<../.gitbook/assets/image (4) (1) (1).png>)
+   ![](<../.gitbook/assets/image (4) (1).png>)
 4. Isi nama user (Harus terdaftar membership)
 5. Input origin (Namadomain.com)
 6. Save -> Done
