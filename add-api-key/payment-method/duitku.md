@@ -12,7 +12,7 @@ Langkah-langkah yang harus di lakukan untuk setting duitku:
 
 1. Daftarkan akun Duitku pada [tautan berikut ini ](https://dashboard.duitku.com/Account/Register)dan isi keseluruhan informasi yang dibutuhkan untuk registrasi dan selesaikan pendaftaran yang telah dilakukan.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 2. Setelah mendaftarkan email, anda akan mendapatkan email konfirmasi dari DUITKU. Silahkan periksa email masuk anda, dan lanjutkan proses registrasi. Setelah proses verifikasi selesai, anda akan mendapatkan akun untuk dapat login pada Dashboard Duitku.
 
