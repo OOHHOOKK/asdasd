@@ -51,7 +51,7 @@
   * [💳 Duitku](add-api-key/payment-method/duitku.md)
   * [⛔ Ipaymu](add-api-key/payment-method/ipaymu.md)
 * [Whastapp Service](add-api-key/whastapp-service/README.md)
-  * [EasyWA](add-api-key/whastapp-service/easywa.md)
+  * [📲 EasyWA](add-api-key/whastapp-service/easywa.md)
   * [⚠ WooWA](add-api-key/whastapp-service/woowa.md)
 
 ## ERROR FREQUENTLY
