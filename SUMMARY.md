@@ -27,7 +27,7 @@
 * [Payment](dashboard-panel/payment.md)
 * [Vendor](dashboard-panel/vendor/README.md)
   * [📦 Product](dashboard-panel/vendor/product.md)
-  * [📚 Denom](dashboard-panel/vendor/denom.md)
+  * [💰 Denom](dashboard-panel/vendor/denom.md)
   * [🗿 Midman](dashboard-panel/vendor/midman.md)
 * [User](dashboard-panel/user.md)
 * [Media](dashboard-panel/media.md)
