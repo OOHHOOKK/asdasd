@@ -6,7 +6,7 @@ Untuk membuat voucher diskon
 2.  Klik menu voucher\
 
 
-    <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 3. Create
 4.  Isi detail voucher\
 

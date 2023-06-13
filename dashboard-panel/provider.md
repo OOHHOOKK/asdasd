@@ -10,7 +10,7 @@ Untuk membuat provider
 3.  Create\
 
 
-    <figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 4. Isi nama (Contoh : mobile legends)
 5. pilih type : \
    \- Midman\

@@ -1,4 +1,4 @@
-# EasyWA
+# 📲 EasyWA
 
 {% hint style="info" %}
 Untuk mendapatkan APIkey silahkan berlangganan [disini](https://easywa.id/)
@@ -27,7 +27,7 @@ Cara Pasang API key
 4. Paste API key yang telah dicopy sebelumnya
 5. Masukkan email akun EasyWA\
    \
-   ![](<../../.gitbook/assets/image (11).png>)
+   ![](<../../.gitbook/assets/image (11) (1).png>)
 6. Save -> DONE
 
 > Cek sudah berhasil, silahkan ke menu [simulation.md](../../dashboard-panel/simulation.md "mention") untuk tes send message\

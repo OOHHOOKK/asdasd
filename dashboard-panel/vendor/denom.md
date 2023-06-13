@@ -1,4 +1,4 @@
-# 📚 Denom
+# 💰 Denom
 
 Di menu ini digunakan untuk sinkron denom dari BOT\
 \

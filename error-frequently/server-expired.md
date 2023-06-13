@@ -15,7 +15,7 @@ Apa saja yang terdampak jika server expired
 *   Admin Panel Expired\
 
 
-    <figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption><p>Admin Panel Expired</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (12) (1).png" alt=""><figcaption><p>Admin Panel Expired</p></figcaption></figure>
 
 
 

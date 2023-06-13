@@ -22,7 +22,7 @@
 7.  Input nomor telpon terdaftar & Password\
 
 
-    <figure><img src="../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 8. Login
 9.  Done -> sukses login\
 
