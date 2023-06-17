@@ -41,6 +41,7 @@
 ## ADD BOT
 
 * [Add Bot Midman](add-bot/add-bot-midman.md)
+* [Add Bot Kiosgamer](add-bot/add-bot-kiosgamer.md)
 
 ## ADD API KEY
 
