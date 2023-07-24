@@ -24,5 +24,6 @@ Untuk membuat provider
 
     <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
+    \
     &#x20; 4\. Auto Create Produk agar produk otomatis terbuat
 6. Save -> DONE
