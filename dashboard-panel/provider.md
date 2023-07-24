@@ -17,7 +17,7 @@ Untuk membuat provider
    &#x20;  Untuk type Midman, pilih Midman pada bagian field type\
    &#x20;  1\. Masukkan target\
    &#x20;      https://api-bisnis.vocagame.com\
-   &#x20;  2\. API key bisa di dapat [disini](https://bisnis.vocagame.com/panel/setting/api-key)\
+   &#x20;  2\. API key bisa di dapat [disini](https://dashboard-bisnis.vocagame.com/panel/setting/api-key)\
    &#x20;  3\. Get Produk -> Pilih produk\
    \
    &#x20;  ![](<../.gitbook/assets/image (45).png>)
