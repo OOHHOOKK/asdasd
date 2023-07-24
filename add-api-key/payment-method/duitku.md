@@ -20,7 +20,7 @@ Langkah-langkah yang harus di lakukan untuk setting duitku:
 
 3. Anda dapat login kembali setelah mendapatkan _credential account_ yang telah diberikan dari team DUITKU. Centang "Check to Login as Team member (?)" jika anda adalah team dari pemilik akun DUITKU, jika bukan, anda dapat melakukan Login tanpa mencentangnya.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 4. Setelah anda berhasil login, Anda akan diarahkan ke tampilan dashboard DUITKU. Anda dapat melihat beberapa fitur  yang tertera pada sidebar dan melihat keseluruhan rekapitulasi dari transaksi Anda pada dashboard.
 
@@ -38,7 +38,7 @@ Langkah-langkah yang harus di lakukan untuk setting duitku:
 
 7. Setelah aktivasi proyek anda telah selesai, anda dapat melakukan setting integrasi Payment Gateway Duitku di Back-Office website anda. Anda dapat masuk ke menu setting > API KEY> kemudian masuk ke section Duitku dan lakukan input API KEY DUITKU dan DUITKU MERCHANT CODE.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 8. Anda dapat melihat merchant code anda pada dashboard duitku pada menu "Proyek saya" kemudian anda dapat melakukan copy merchant code dan paste pada backoffice website.
 
@@ -58,7 +58,7 @@ Langkah-langkah yang harus di lakukan untuk setting duitku:
 
 11. Untuk mengaktifkan payment channel yang sudah selesai, anda dapat melakukan pengecekan di back-office pada menu payment dan pastikan status payment DUITKU dalam keadaan "active". Kemudian untuk melihat detail payment channel nya, anda dapat klik menu "manage" pada payment DUITKU.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Pastikan payment channel yang sudah aktif pada dashboard DUITKU dalam status active juga. Jika payment channel pada dashboard DUITKU masih dalam keadaan belum aktif, anda dapat menonaktifkannya pada back-office website.
 
