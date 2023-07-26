@@ -15,5 +15,9 @@
 4. Pada bagian IPv6 tunnel preferences -> pilih IPv4-only tunnel\
    \
    ![](<.gitbook/assets/image (70).png>)\
+   \
+   untuk aplikasi OpenVPN terbaru pilih NO\
+   \
+   ![](<.gitbook/assets/image (80).png>)\
 
 5. Done
