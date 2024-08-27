@@ -42,3 +42,37 @@ layout:
 9. Save -> Done
 
 > Note : Khusu akun kiosgamer yang sudah memiliki fitur Top Up ke Teman
+
+
+
+> Get Auth Code
+
+Untuk auth code merupakan text dari QR authentikasi garena.\
+contoh : HHBRW3JNEYDHSGEC
+
+Untuk mendapatkan auth code :
+
+* Buka menu account garena bagian security https://account.garena.com/security
+*   Kemudian aktifkan Garena Authenticator\
+
+
+    <figure><img src="../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
+*   Setelah memasukan otp akan muncul QR seperti gambar di bawah ini, lalu klik "tidak bisa memindai barcode"\
+
+
+    <figure><img src="../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+
+    Maka nanti akan muncul Auth Code seperti gambar di bawah ini\
+
+
+    <figure><img src="../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+
+    Masukkan Auth Code di backoffice bagian Authenticator\
+
+
+
+
+> Jika Authenticator sudah aktif, silahkan di nonaktifkan lemudian aktifkan kembali\
+> \
+> Auth Code dapat di input ke aplikasi garena authenticator secara manual
+

@@ -11,7 +11,7 @@
   * [📥 Top Up](dashboard-panel/report/top-up.md)
   * [🎉 Membership](dashboard-panel/report/membership.md)
   * [👥 User](dashboard-panel/report/user.md)
-  * [🏷 Voucher](dashboard-panel/report/voucher.md)
+  * [🏷️ Voucher](dashboard-panel/report/voucher.md)
 * [Order](dashboard-panel/order/README.md)
   * [📦 Product](dashboard-panel/order/product.md)
   * [📥 Top Up](dashboard-panel/order/top-up.md)
@@ -32,8 +32,8 @@
 * [User](dashboard-panel/user.md)
 * [Media](dashboard-panel/media.md)
 * [Setting](dashboard-panel/setting/README.md)
-  * [🛠 General](dashboard-panel/setting/general.md)
-  * [⚙ System](dashboard-panel/setting/system.md)
+  * [🛠️ General](dashboard-panel/setting/general.md)
+  * [⚙️ System](dashboard-panel/setting/system.md)
   * [📲 Whatsapp](dashboard-panel/setting/whatsapp.md)
   * [🔗 API KEY](dashboard-panel/setting/api-key.md)
 * [Simulation](dashboard-panel/simulation.md)
@@ -54,7 +54,7 @@
   * [⛔ Ipaymu](add-api-key/payment-method/ipaymu.md)
 * [Whastapp Service](add-api-key/whastapp-service/README.md)
   * [📲 EasyWA](add-api-key/whastapp-service/easywa.md)
-  * [⚠ WooWA](add-api-key/whastapp-service/woowa.md)
+  * [⚠️ WooWA](add-api-key/whastapp-service/woowa.md)
 
 ## ERROR FREQUENTLY
 
